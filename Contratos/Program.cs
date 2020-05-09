@@ -46,7 +46,7 @@ namespace Contratos
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Departament: " + worker.Department);
             Console.WriteLine("Income for "+ monthAndYear +": "+worker.Income(year,month));
-             
+            Console.WriteLine("fim");
         }
         
 
